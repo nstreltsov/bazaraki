@@ -1,0 +1,2 @@
+deviceName;platform;platformVersion;orientation;browser;systemPort;driver
+emulator-5554;Android;10;LANDSCAPE;Chrome;8200;chromedriver74.exe

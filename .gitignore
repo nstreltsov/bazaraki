@@ -1,0 +1,37 @@
+*.class
+# Package Files #
+*.war
+*.ear
+*.zip
+*.iml
+*.log
+.project
+.metadata
+target/
+_windows/
+codestyles/
+code.style.schemes.xml
+debugger.renderers.xml
+debugger.xml
+editor.xml
+find.xml
+lombok.xml
+ui.lnf.xml
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+local.properties
+.classpath
+.settings/
+.loadpath
+# Locally stored "Eclipse launch configurations"
+*.launch
+.idea/
+*.classpath
+*.project
+*.settings
+debug/
+.allure/
+allure-results/
