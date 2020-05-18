@@ -1,2 +1,3 @@
 deviceName;platform;platformVersion;orientation;browser;systemPort;driver
 emulator-5554;Android;10;LANDSCAPE;Chrome;8200;chromedriver74.exe
+ce11182b887b482f03;Android;9.0;PORTRAIT;Chrome;8201;chromedriver.exe
