@@ -32,10 +32,6 @@ public class DefaultFieldDecorator implements FieldDecorator {
             if (PageFactoryUtils.isCollectionElement(field)) {
                 return decorateElementCollection(classLoader, field);
             }
-            /*
-            if (PageFactoryUtils.isListElement(field)){
-                return proxyElementList(classLoader, field);
-            }*/
             if (PageFactoryUtils.isElement(field)){
                 return decorateWebElement(classLoader, field);
             }
