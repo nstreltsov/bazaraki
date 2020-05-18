@@ -1,7 +1,8 @@
 ##### Запуск тестов
-Для запуска используется команда: mvn clean test site
-Для запуска в debug-режиме:  mvn clean test -DforkCount=0
 При запуске appium серевра на вкладке "Экспертный" указать "переопределять сессию"
+* Для запуска используется команда: mvn clean test site
+* Для запуска в debug-режиме:  mvn clean test -DforkCount=0
+
 
 ##### Отчет о выполнении
 После запуска Allure-отчет будет доступен в папке проекта target/site/allure-maven-plugin/index.html
